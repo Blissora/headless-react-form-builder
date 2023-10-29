@@ -1,5 +1,5 @@
 {
-  "name": "react-form-builder2",
+  "name": "headless-react-form-builder",
   "version": "0.16.5",
   "description": "A complete form builder for react.",
   "main": "lib/index.js",
